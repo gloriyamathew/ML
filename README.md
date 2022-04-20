@@ -1,3 +1,3 @@
 # ML
 Machine Learning
-\nThis is a Sample Text
+<br> This is a Sample Text
